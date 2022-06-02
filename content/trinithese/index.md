@@ -1,5 +1,5 @@
 ---
-title: Page d'accueil
+title: Enigme de la Trinithèse
 summary: Here we describe how to add a page to your site.
 date: "2018-06-28T00:00:00Z"
 
@@ -13,4 +13,5 @@ header:
   caption: ""
   image: ""
 ---
-Ce site héberge les pages personnelles de Malo, Eeva et Darius Mofakhami.
+## Sur le début du chemin
+Bravo, vous passé la toute première étape. Mais il vous faudra encore acquérir la sagesse de la Trinithèse pour prendre le bon chemin.
