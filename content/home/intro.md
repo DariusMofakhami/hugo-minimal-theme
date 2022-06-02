@@ -18,16 +18,16 @@ design:
     #   Choose a light or dark text color by setting `text_color_light`.
     #   Any HTML color name or Hex value is valid.
     color: black
-    # gradient_start: DarkGreen
-    # gradient_end: ForestGreen
-    image: hello.jpg # Name of image in `static/media/`.
-    image_darken: 0.4
-    image_size: cover
-    image_position: right
-    image_parallax: true
-    text_color_light: true
+    gradient_start: DarkGreen
+    gradient_end: ForestGreen
+    # image: hello.jpg # Name of image in `static/media/`.
+    # image_darken: 0.4
+    # image_size: cover
+    # image_position: right
+    # image_parallax: true
+    # text_color_light: true
   css_class: d-flex fullscreen align-items-center
 ---
 
-👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
+Ce site héberge les pages personnelles de Malo, Eeva et Darius Mofakhami.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
