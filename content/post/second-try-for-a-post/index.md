@@ -1,5 +1,5 @@
 ---
-title: Second try for a post
+title: Second
 subtitle: blabla
 date: 2022-06-02T14:22:29.883Z
 draft: false
