@@ -27,4 +27,4 @@ Persévérez, et votre nom sera peut-être le premier à s'inscrire ici !
 (dernière mise à jour : 07/06/2022 - 12h39)
 
 
-{{< figure src="trinithese_white.png" width="250" numbered="true" >}}
+{{< figure src="trinithese.png" width="250" numbered="true" theme="light">}}

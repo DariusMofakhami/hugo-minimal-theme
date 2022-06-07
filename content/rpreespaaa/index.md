@@ -22,7 +22,7 @@ _build:
 
 Félicitations ! Vous avez acquis la sagesse de la Trinithèse et avez trouvé le bon chemin. Vous êtes maintenant digne d'accéder à l'énigme.
 
-Rédiger un manuscrit de thèse est une épreuve en soit. En un sens, les doctorant·e·s travaillent leur manuscrit avec un objectif similaire aux paysan·ne·s qui cultivent leur champ : nourrir leur communauté. Dans les périodes de rédaction, nous y investissons toutes les fibres de notre être. La structure de chaque phrase est déterminée avec soin, comme autant de sillons tracés. L'emploi de chaque mot est choisi avec attention, comme autant de graines semées. À la fin pourtant, un mot compte plus que les autres.
+Rédiger un manuscrit de thèse est une épreuve en soit. En un sens, les doctorant·e·s travaillent leur manuscrit avec un objectif similaire aux paysan·ne·s qui cultivent leur champ : nourrir leur communauté. Dans les périodes de rédaction, nous y investissons toutes les fibres de notre être. La structure de chaque phrase est déterminée avec soin, comme autant de sillons tracés. L'emploi de chaque mot est choisi avec attention, comme autant de graines semées. À la fin pourtant, un mot compte toujours plus que les autres.
 
 **Trouvez ce mot pour chaque thèse, et votre nom entrera dans la toile.**
 
