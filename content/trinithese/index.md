@@ -12,6 +12,16 @@ comments: false  # Show comments?
 header:
   caption: ""
   image: ""
+
+_build:
+  list: never
+  publishResources: false
+  render: always
 ---
+
 ## Sur le début du chemin
 Bravo, vous passé la toute première étape. Mais il vous faudra encore acquérir la sagesse de la Trinithèse pour prendre le bon chemin.
+
+Rassurez vous, personne n'a encore réussi à percez le mystère.
+
+(denière mise à jour : 02/06/2022 - 17h42)
