@@ -1,7 +1,7 @@
 ---
-title: Enigme de la Trinithèse
-summary: Here we describe how to add a page to your site.
-date: "2018-06-28T00:00:00Z"
+title: Le début du chemin...
+summary: première piste pour trouver l'accès à l'énigme de la trinithèse
+date: "2022-06-07T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -11,17 +11,20 @@ comments: false  # Show comments?
 # Optional header image (relative to `assets/media/` folder).
 header:
   caption: ""
-  image: ""
+  image: "trinithese2.png"
 
 _build:
   list: never
   publishResources: false
   render: always
+
 ---
+Bravo, vous avez trouvé une première piste ! Mais le chemin emprunté n'est pas le bon...
 
-## Sur le début du chemin
-Bravo, vous passé la toute première étape. Mais il vous faudra encore acquérir la sagesse de la Trinithèse pour prendre le bon chemin.
+Rassurez-vous, personne n'a encore réussi à résoudre l'énigme.
+Persévérez, et votre nom sera peut-être le premier à s'inscrire ici !
 
-Rassurez vous, personne n'a encore réussi à percez le mystère.
+(dernière mise à jour : 07/06/2022 - 12h39)
 
-(denière mise à jour : 02/06/2022 - 17h42)
+
+{{< figure src="trinithese_white.png" width="250" numbered="true" >}}

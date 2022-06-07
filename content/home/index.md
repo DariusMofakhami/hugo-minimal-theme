@@ -14,3 +14,9 @@ header:
   image: ""
 ---
 Ce site héberge les pages personnelles de Malo, Eeva et Darius Mofakhami.
+
+Leurs manuscrits de thèse se trouvent aux adresses suivantes :
+
+- Malo Mofakhami : http://www.theses.fr/2019PA01E054
+- Eeva Mofakhami : http://www.theses.fr/2020HESAE006
+- Darius Mofakhami : https://www.theses.fr/s213383

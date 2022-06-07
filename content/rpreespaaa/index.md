@@ -1,5 +1,5 @@
 ---
-title: Enigme de la Trinithèse
+title: Au bout du chemin.
 summary: Here we describe how to add a page to your site.
 date: "2018-06-28T00:00:00Z"
 
@@ -18,5 +18,20 @@ _build:
   publishResources: false
   render: always  
 ---
-## Au bout du chemin
-Vous avez acquis la sagesse de la Trinithèse et réussi à déchiffrer l'accès au chemin. Vous êtes maintenant digne d'accéder à l'énigme. Suivez ce lien, percez l'énigme de la Trinithèse, et votre nom entrera dans la toile !
+<div style="text-align: justify">
+
+Félicitations ! Vous avez acquis la sagesse de la Trinithèse et avez trouvé le bon chemin. Vous êtes maintenant digne d'accéder à l'énigme.
+
+Rédiger un manuscrit de thèse est une épreuve en soit. En un sens, les doctorant·e·s travaillent leur manuscrit avec un objectif similaire aux paysan·ne·s qui cultivent leur champ : nourrir leur communauté. Dans les périodes de rédaction, nous y investissons toutes les fibres de notre être. La structure de chaque phrase est déterminée avec soin, comme autant de sillons tracés. L'emploi de chaque mot est choisi avec attention, comme autant de graines semées. À la fin pourtant, un mot compte plus que les autres.
+
+**Trouvez ce mot pour chaque thèse, et votre nom entrera dans la toile.**
+
+Et n'hésitez pas à nous laisser vos coordonnées, il se pourrait que les plus rapides d'entre vous soient récompensés...
+</div>
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScPpwsy87MYAu_Q9ZBGrUgkL65IZDZf0pw7t7nNF7XQlGdYLQ/viewform?embedded=true" width="100%" height="1645" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
