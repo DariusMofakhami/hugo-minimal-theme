@@ -25,6 +25,12 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
 
 ############################
+## PARAMS
+############################
+params:
+  customcss:
+    - "/custom.css"
+############################
 ## ADVANCED
 ############################
 
