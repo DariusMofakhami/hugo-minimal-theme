@@ -19,12 +19,12 @@ _build:
   render: always
 
 ---
-Bravo, vous avez trouvé une première piste ! Mais le chemin emprunté n'est pas le bon...
+Bravo, vous avez trouvé une première piste ! Mais vous n'avez pas pris la bonne direction sur la fin.
 
 Rassurez-vous, personne n'a encore réussi à résoudre l'énigme.
 Persévérez, et votre nom sera peut-être le premier à s'inscrire ici !
 
-(dernière mise à jour : 07/06/2022 - 12h39)
+(dernière mise à jour : 31/07/2022 - 23h28)
 
 
 {{< figure src="trinithese.png" width="250" numbered="true" theme="light">}}
