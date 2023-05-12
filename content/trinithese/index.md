@@ -1,7 +1,7 @@
 ---
-title: Le début du chemin...
+title: Un premier chemin...
 summary: première piste pour trouver l'accès à l'énigme de la trinithèse
-date: "2023-02-04T00:00:00Z"
+date: "2023-05-12T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -24,7 +24,7 @@ Bravo, vous avez trouvé une première piste ! Mais vous n'avez pas pris la bonn
 Rassurez-vous, personne n'a encore réussi à résoudre l'énigme.
 Persévérez, et votre nom sera peut-être le premier à s'inscrire ici !
 
-(dernière mise à jour : 04/02/2023 - 11h37)
+(dernière mise à jour : 12/05/2023 - 16h45)
 
 
 {{< figure src="trinithese.png" width="250" numbered="true" theme="light">}}
