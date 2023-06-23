@@ -21,10 +21,11 @@ _build:
 ---
 Bravo, vous avez trouvé une première piste ! Mais vous n'avez pas pris la bonne direction sur la fin.
 
-Rassurez-vous, personne n'a encore réussi à résoudre l'énigme.
-Persévérez, et votre nom sera peut-être le premier à s'inscrire ici !
+Persévérez, et votre nom viendra peut-être s'ajouter à la courte liste des enquêteurs et enquêtrices victorieux !
 
-(dernière mise à jour : 12/05/2023 - 16h45)
+- 20/06/2023 à 22:05:44 : Florence Moppert a percé le mystère de la trinithèse ! (1 an, 3 mois et 13 jours après le lancement de l'énigme)
+
+(dernière mise à jour : 23/06/2023 - 14h19)
 
 
 {{< figure src="trinithese.png" width="250" numbered="true" theme="light">}}
